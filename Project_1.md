@@ -4,10 +4,10 @@
 * **DM-GY 9103-G Special Topics:Interactive Installation**
 
 ##Project 1: Transform a space. Create a space.
-In-class critique: Monday February 13. 6pm
-10% of your Final Grade
+##In-class critique: Monday February 13. 6pm
+## 10% of your Final Grade
 
-Materials: brown paper, painters tape, parcel string
+## Materials: brown paper, painters tape, parcel string
 
 Using only the materials provided and a location on the 8th floor of MAGNET transform or create a space. This is a space that the body can travel through or be within. Ultimately, your goal is to create an experience for the body, not an object. How is this experience for the viewer different at different locations in this space?
 
