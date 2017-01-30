@@ -220,7 +220,11 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ### [Calendar](Calendar.md)
 
-### [Assignments](Assignments.md)
+### [Project 1](Project_1.md)
+
+### [Project 2]
+
+### [Final Project]
 
 ### [Show and Tell](ShowAndTell.md)
 

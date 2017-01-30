@@ -15,10 +15,11 @@
 * Sign up for Show & Tells
 
 #####Homework 
-* Work on Project 1
+* Work on [Project 1](Project_1.md)
 * Document Project 1
 * Check your email for the invitation to our [Slack](https://iisp17.slack.com) Channel. Please join additional channels related to this class.
 * Email me your [Github Handle](https://github.com/). If you do not have one, please setup a Github Account
+* Email me a link to your organization tool that is used soley for this class.
 
 
 
@@ -33,7 +34,7 @@
 
 
 #####Homework 
-* Work on Project 1
+* Work on [Project 1](Project_1.md)
 * Document Project 1
 * Schedule your Fab Lab Induction
 * Read "The Cybernatic Stance: My Process and Purpose" by Roy Ascott
@@ -42,7 +43,7 @@
 
 ###Week 4 Feb 13th: Project 1 Crit
 #####InClass  
-* **Project 1 Crit**
+* **[Project 1](Project_1.md) Crit**
 
 
 ###### Show & Tell
