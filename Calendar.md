@@ -1,0 +1,220 @@
+## Calendar for Spring 2017 Interactive Installation
+
+###Week 1 Jan 23th: Class Cancelled
+
+
+
+
+
+###Week 2 Jan 30: Hello + Space
+#####InClass
+* Hellos
+* Introductions
+* Project 1 Launch
+
+* Sign up for Show & Tells
+
+#####Homework 
+* Work on Project 1
+* Document Project 1
+* Check your email for the invitation to our [Slack](https://iisp17.slack.com) Channel. Please join additional channels related to this class.
+* Email me your [Github Handle](https://github.com/). If you do not have one, please setup a Github Account
+
+
+
+
+###Week 3 Feb 6th: Scale + Body + Space
+#####InClass
+* One-on-One Meetings, Sketch Review
+
+###### Show & Tell ---> SOFTLab
+
+
+
+
+#####Homework 
+* Work on Project 1
+* Document Project 1
+* Schedule your Fab Lab Induction
+* Read "The Cybernatic Stance: My Process and Purpose" by Roy Ascott
+
+
+
+###Week 4 Feb 13th: Project 1 Crit
+#####InClass  
+* **Project 1 Crit**
+
+
+###### Show & Tell
+
+
+
+
+#####Homework
+* Read Jack Burnham's "System Aesthetics"
+* Read Jack Burnham's "Real Time Systems"
+* Read Francis Halsall's "Systems of Art"
+* Download P5.js 
+* [Work through Tutorials](https://p5js.org/tutorials/) 
+	* Hello p5.js
+	* Getting Started
+	* P5 Overview
+* [Check out the P5 web editor](https://alpha.editor.p5js.org/)
+
+
+###Feb 20th: No Class President's Day
+
+
+###Week 5: Feb 27th
+
+#####InClass
+* Computer Vision
+* Camera as a Sensor
+
+###### Workshop 
+* Open CV
+
+
+
+#####Homework 
+* Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
+* Read [Transforming Mirrors by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
+* Develop a sketch that does something interactive + playful with openCV
+
+
+
+
+###Week 6 March 6th: 
+
+#####InClass
+* Workshop: openCV or Physical Computing
+
+###### Show & Tell
+
+
+
+#####Homework
+* Work on Project 2
+* Read [History of the Interface in Interactive Art by Soke Dinkla](http://www.kenfeingold.com/dinkla_history.html)
+* Download Arduino IDE
+* Acquire Physical Computing Supples. Review your materials in your Physical Computing kit and understand what they do
+
+
+###Spring Break March 13th - 17th
+
+
+###Week 7 March 20th:
+#####InClass
+* Workshop: Physical Computing - P5.js + Arduino
+* Studio Time
+
+###### Show & Tell
+
+
+#####Homework 
+
+* Work on Project 2
+* Read “The Poetics of Interactivity” by Margaret Morse
+
+
+
+###Week 8 March 27th: 
+#####InClass
+**Project 2 Critique**
+
+###### Show & Tell
+
+
+
+#####Homework
+* [MidTerm Self Assessment](SelfAssessments.md)
+* Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
+* Read Gordan Pask's "The Architectual Relevance of Cybernetics"
+
+
+###Week 9 April 3rd:
+#####InClass
+
+
+
+#####Workshop
+* Physical Computing: Output Workshop - Motors, Tips and more
+
+
+#####Homework 
+* Sketch X: PComp output
+* Read: Ken Rinaldo "Autopoiesis"
+
+
+
+
+###Week 10 April 10th:
+#####InClass
+Physical Computing: IoT Systems + Networking
+
+###### Show & Tell
+
+
+#####Homework
+Sketch X: PComp Networking
+* Read "Art as a Living System" by Christa Sommerer and Laurent Mignonneau
+
+
+
+
+###Week 11 April 17th:
+#####InClass
+Physical Computing: IoT Systems + Networking
+
+###### Show & Tell
+
+
+#####Homework
+Sketch X: Networking
+* Read Roy Ascott's "Art and Telematics: Towards a Network Consciousness"
+
+
+
+
+
+###Week 12 April 24th:
+#####InClass
+Machine Learning + Wekinator
+
+
+#####Homework
+Work on Final Project
+
+
+
+###Week 13 May 1st:
+#####InClass
+Automation
+Best Practices: Boot scripts, Cron Tabs
+		
+#####Homework
+
+Work on Final Project
+
+
+
+###Week 14 May 8th: LAST DAY Of CLASS 
+* Studio Time + One-on-One's
+
+#####Homework
+
+* Work on Final Project
+* Document Process
+* [Final Self Assessment](SelfAssessments.md)
+
+
+
+###Week 15 May 12th: Finals  
+
+#####Final DUE - CRITIQUE
+#####Homework
+Document Final Project
+[Final Self Assessment](SelfAssessments.md)
+##### Documentation Due, Final Self-Assessment Due
+
+Have a great summer! Please keep in touch!
