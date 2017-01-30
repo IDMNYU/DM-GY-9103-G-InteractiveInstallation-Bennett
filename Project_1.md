@@ -5,6 +5,7 @@
 
 ##Project 1: Transform a space. Create a space.
 In-class critique: Monday February 13. 6pm
+10% of your Final Grade
 
 Materials: brown paper, painters tape, parcel string
 
