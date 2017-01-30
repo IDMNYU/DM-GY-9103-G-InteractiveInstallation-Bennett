@@ -201,7 +201,7 @@ You must have some sort of evidence and collection of your ideas, research, step
 
 We will be reading from other artists, designers, critics and engineers throughout the semester: Margaret Morse, Myron Krueger, Golan Levin, Roy Ascott, Jack Burnham, Francis Halsall, Ken Rinaldo, Christa Sommerer, Laurent Mignonneau, Gordan Pask, Soke Dinkla, among others.
 
-Readings can either be found online with links in the calendar under homework, or supplied through the Slack Resources Channel for this class. Many are found in the text *Systems* edited by Edward Shanken.
+Readings can either be found online with links in the calendar under homework, or supplied through the Slack Resources Channel for this class. Many are found in the text [*Systems* edited by Edward Shanken](https://mitpress.mit.edu/books/systems).
 
 
 
