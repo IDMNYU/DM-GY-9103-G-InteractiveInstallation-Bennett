@@ -38,16 +38,16 @@
 * Document Project 1
 * Schedule your Fab Lab Induction
 * Read "The Cybernatic Stance: My Process and Purpose" by Roy Ascott
+* [Download Processing](https://processing.org/download/)
 
 
 
 ###Week 4 Feb 13th: Project 1 Crit
 #####InClass  
 * **[Project 1](Project_1.md) Crit**
-
+* Whirl wind tour of Processing: Shape, Image, Interactivity, Video
 
 ###### Show & Tell
-
 
 
 
@@ -55,12 +55,11 @@
 * Read Jack Burnham's "System Aesthetics"
 * Read Jack Burnham's "Real Time Systems"
 * Read Francis Halsall's "Systems of Art"
-* Download P5.js 
-* [Work through Tutorials](https://p5js.org/tutorials/) 
-	* Hello p5.js
-	* Getting Started
-	* P5 Overview
-* [Check out the P5 web editor](https://alpha.editor.p5js.org/)
+* [Look over the following Processing Tutorials and be familiar with them](https://processing.org/tutorials) 
+	* Getting Started with Processing
+	* Processing Overview
+	* Coordinate System
+* Check out the small booklet - Getting Started with Processing
 
 
 ###Feb 20th: No Class President's Day
@@ -69,6 +68,7 @@
 ###Week 5: Feb 27th
 
 #####InClass
+
 * Computer Vision
 * Camera as a Sensor
 
@@ -80,7 +80,7 @@
 #####Homework 
 * Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
 * Read [Transforming Mirrors by David Rokeby](http://homepage.mac.com/davidrokeby/mirrors.html)
-* Develop a sketch that does something interactive + playful with openCV
+* Develop a sketch that does something interactive + playful with openCV. What is the input? What is the output?
 
 
 
@@ -88,7 +88,7 @@
 ###Week 6 March 6th: 
 
 #####InClass
-* Workshop: openCV or Physical Computing
+* Workshop: openCV + Kinect
 
 ###### Show & Tell
 
@@ -106,7 +106,7 @@
 
 ###Week 7 March 20th:
 #####InClass
-* Workshop: Physical Computing - P5.js + Arduino
+* Workshop: Physical Computing - Processing + Arduino
 * Studio Time
 
 ###### Show & Tell
