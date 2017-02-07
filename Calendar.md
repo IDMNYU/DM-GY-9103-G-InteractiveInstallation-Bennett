@@ -47,7 +47,6 @@
 * **[Project 1](Project_1.md) Crit**
 * Whirl wind tour of Processing: Shape, Image, Interactivity, Video
 
-###### Show & Tell
 
 
 
@@ -72,6 +71,9 @@
 * Computer Vision
 * Camera as a Sensor
 
+##### Show & Tell I: Jeffery Shaw & Myron Kruger - Angela
+
+
 ###### Workshop 
 * Open CV
 
@@ -90,7 +92,7 @@
 #####InClass
 * Workshop: openCV + Kinect
 
-###### Show & Tell
+##### Show & Tell II: United Visual Artist & Daily tous les Jours - Cynthia
 
 
 
@@ -109,7 +111,7 @@
 * Workshop: Physical Computing - Processing + Arduino
 * Studio Time
 
-###### Show & Tell
+##### Show & Tell VII: Deep Local & Niklas Roy & Random International - Phoenix
 
 
 #####Homework 
@@ -123,7 +125,7 @@
 #####InClass
 **Project 2 Critique**
 
-###### Show & Tell
+###### Show & Tell IX: Design I/O & Golan Levin  - Prudence
 
 
 
@@ -153,7 +155,7 @@
 #####InClass
 Physical Computing: IoT Systems + Networking
 
-###### Show & Tell
+##### Show & Tell X: The Explorartorium & Disney Research - Indira
 
 
 #####Homework
@@ -167,7 +169,7 @@ Sketch X: PComp Networking
 #####InClass
 Physical Computing: IoT Systems + Networking
 
-###### Show & Tell
+##### Show & Tell XI: eCloud, Julius Popp, Jim Campbell   - John
 
 
 #####Homework
@@ -181,7 +183,7 @@ Sketch X: Networking
 ###Week 12 April 24th:
 #####InClass
 Machine Learning + Wekinator
-
+##### Show & Tell XII: Universal Everything, Karolina Sobekecka (Flightphase), Nemore - Cadence
 
 #####Homework
 Work on Final Project
@@ -192,6 +194,7 @@ Work on Final Project
 #####InClass
 Automation
 Best Practices: Boot scripts, Cron Tabs
+##### Show & Tell XIII: Christa Sommerer & Laurent Migonneau, Ryan Habbyshaw - Angela
 		
 #####Homework
 
