@@ -20,8 +20,19 @@ Your outputs could be visual (graphics, video) or sonic. Your input's could util
 Treat each element of your system different. Get each one technically working and working independently. Then, bring the various elements together to work.
 
 
+###Deliverables for March 6th
+• A post on your research system (ie blog, website, evernote, pinterest: titled “Development” with the following:
+• Concept map/Word map of concepts and ideas that you are interested in exploring
+• 3-7 different artists, designers, projects, theorists, writers, musicans, poets
+• Use the [storyboard templates](https://github.com/IDMNYU/DM-GY-9103-G-InteractiveInstallation-Bennett/tree/master/storyboardTemplates) to sketch out what would happen over time in your piece. What changes? What causes those changes? 
+• What are the inputs and outputs to the piece?
+• What spaces are you thinking of using?
+• What will the media be in your piece? Collect it now!
+• Initial pieces of code. (Remember to break things down into steps)
+• Create a simple patch using openCV, to trigger or control a video, sound file or graphics. Explore and play with openCV with regards to tracking.
 
-###Deliverables for the Project 2 
+
+###Final Deliverables  
 <ul>
 <li>Concept in 3-6 sentences</li>
 <li>Links to influences and similar works – both conceptual and technical</li>
@@ -34,7 +45,6 @@ Treat each element of your system different. Get each one technically working an
 
 <li> All of the above should be on your blog, with a link to your Github Repo for this project that includes all of your code and development code </li>
 
-<li>A folder titled “Development” with the following inside of it:</li>
 
 <li>Initial working patches and previous versions</li>
 
