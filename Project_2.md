@@ -22,14 +22,23 @@ Treat each element of your system different. Get each one technically working an
 
 ###Deliverables for March 6th
 • A post on your research system (ie blog, website, evernote, pinterest: titled “Development” with the following:
+
 • Concept map/Word map of concepts and ideas that you are interested in exploring
+
 • 3-7 different artists, designers, projects, theorists, writers, musicans, poets
+
 • Use the [storyboard templates](https://github.com/IDMNYU/DM-GY-9103-G-InteractiveInstallation-Bennett/tree/master/storyboardTemplates) to sketch out what would happen over time in your piece. What changes? What causes those changes? 
+
 • What are the inputs and outputs to the piece?
+
 • What spaces are you thinking of using?
+
 • What will the media be in your piece? Collect it now!
+
 • Initial pieces of code. (Remember to break things down into steps)
+
 • Create a simple patch using openCV, to trigger or control a video, sound file or graphics. Explore and play with openCV with regards to tracking.
+
 
 
 ###Final Deliverables  
