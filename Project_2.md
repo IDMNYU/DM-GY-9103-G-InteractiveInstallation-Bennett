@@ -1,5 +1,5 @@
-##Project 2 - Cybernetic System
-##Interactive Installation
+## Project 2 - Cybernetic System
+## Interactive Installation
 
 ### 20% of your final grade (5% prototype, 15% midterm)
 ### Due March 27th  6pm
@@ -20,7 +20,7 @@ Your outputs could be visual (graphics, video) or sonic. Your input's could util
 Treat each element of your system different. Get each one technically working and working independently. Then, bring the various elements together to work.
 
 
-###Deliverables for March 6th
+### Deliverables for March 6th
 • A post on your research system (ie blog, website, evernote, pinterest: titled “Development” with the following:
 
 • Concept map/Word map of concepts and ideas that you are interested in exploring
@@ -41,7 +41,7 @@ Treat each element of your system different. Get each one technically working an
 
 
 
-###Final Deliverables  
+### Final Deliverables  
 <ul>
 <li>Concept in 3-6 sentences</li>
 <li>Links to influences and similar works – both conceptual and technical</li>
