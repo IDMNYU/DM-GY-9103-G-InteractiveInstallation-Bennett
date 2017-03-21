@@ -7,6 +7,7 @@
 
 
 ### Week 2 Jan 30: Hello + Space
+
 ##### InClass
 * Hellos
 * Introductions
