@@ -33,7 +33,7 @@ Students will gain a vocabulary for interactivity and learn a variety of tools a
 
 Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful function of the technical process. The goal is to integrate these technical elements to make work that is about something. This could be a problem, phenomena, story, natural element, or other form of expression. This class is about exploring those on a physical scale, such as the body. Projects will create full scale and dynamic installation using both digital and physical means. These projects will be portfolio-level quality works.
 
-###Pre-requisites
+### Pre-requisites
 
 This class assumes a high degree of computer literacy, but not a super high degree of programming ability. I don't expect you to be familair with techniques and how to execute them technically. We'll cover those in the workshop. But I do expect you to be able to pick up the different programming and technical environments and to demonstrate research, problem solving, investigation and experimentation. I do expect you to explore these tools independently and to be making personal discoveries. 
 
@@ -163,7 +163,7 @@ Performance, participation, and attendance of the student has been less than ade
 **F.	Below 62%**	Unacceptable
 Performance, participation, and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. Work submissions are missing, either in parts or completely missing.
 
-###Attendance
+### Attendance
 •	Attendance will be taken at the beginning of every class
 
 •	Critique days are mandatory. No exceptions. No tardiness.
@@ -174,7 +174,7 @@ Performance, participation, and attendance of the student has been such that cou
 
 •	One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
 
-###Participation
+### Participation
 
 It’s imperative for you to be active in class – in discussion, research, and activity inside and outside of class. We are a community and your part is key, regardless of whether you may be struggling or not.
 
@@ -193,11 +193,11 @@ It’s imperative for you to be active in class – in discussion, research, and
 • Be professional at all times in your communication and attitude
 
 
-###Sketchbook & Evernote/Mural.ly
+### Sketchbook & Evernote/Mural.ly
 You must have some sort of evidence and collection of your ideas, research, steps and action. This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes in some form during workshops and demos. Figure out some way to aggregate this information for your own sanity. Evernote is perfect for this. It collects and intakes… well, everything!
 
 
-###Required Readings
+### Required Readings
 
 We will be reading from other artists, designers, critics and engineers throughout the semester: Margaret Morse, Myron Krueger, Golan Levin, Roy Ascott, Jack Burnham, Francis Halsall, Ken Rinaldo, Christa Sommerer, Laurent Mignonneau, Gordan Pask, Soke Dinkla, among others.
 
@@ -205,7 +205,7 @@ Readings can either be found online with links in the calendar under homework, o
 
 
 
-###Technology in the Classroom
+### Technology in the Classroom
 
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. As a general rule, the following uses are unacceptable: checking e-mail, instant messaging, texting, using Facebook, Google+, Flickr, Instagram, or other social networking sites. The quality of the class depends in large part on the quality of your attention and active participation. In particular, give your fellow students the respect you deserve in return, and close your laptop and give them your full attention when they are presenting work. Otherwise, you will be requested to close your laptop/phone in order to give the class your full attention.
 
