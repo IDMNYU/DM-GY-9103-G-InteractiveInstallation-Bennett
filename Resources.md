@@ -1,6 +1,6 @@
-##Course Resources for Interactive Installation
+## Course Resources for Interactive Installation
 
-###General
+### General
 
 - [DIY custom switches](http://www.kobakant.at/DIY/?p=792)
 
@@ -22,11 +22,11 @@
 
 - [Hacking for Artists](http://hackingforartists.com/) - Awesome. Tons of info
 
-###Weekly Workshops or Class Material
+### Weekly Workshops or Class Material
 
 
 
-######Week 1
+###### Week 1
 [Jee Young Lee](http://www.demilked.com/jee-young-lee-surreal-photography-studio-room/)
 
 [Christo & Jeanne-Claude](http://christojeanneclaude.net/)
@@ -40,31 +40,31 @@
 
 [Char Davies](http://www.immersence.com/)
 
-######Week 2
+###### Week 2
 
-######Week 3
+###### Week 3
 
-######Week 4
+###### Week 4
 
-######Week 5
+###### Week 5
 
-######Week 6
+###### Week 6
 
-######Week 7
+###### Week 7
 [Ohm's law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
 [LED Calculator](http://led.linear1.org/1led.wiz)
 
-######Week 8
+###### Week 8
 
-######Week 9
+###### Week 9
 
-######Week 10
+###### Week 10
 
-######Week 11
+###### Week 11
 
-######Week 12
+###### Week 12
 
-######Week 13
+###### Week 13
 
-######Week 14
+###### Week 14
 

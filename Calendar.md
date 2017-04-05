@@ -93,7 +93,7 @@
 ##### InClass
 * Workshop: openCV + Kinect
 
-##### Show & Tell II: United Visual Artist & Daily tous les Jours - Cynthia
+##### Show & Tell II: United Visual Artist & Daily tous les Jours 
 
 
 
@@ -142,25 +142,35 @@
 
 
 ##### Workshop
-* Physical Computing: Output Workshop - Motors, Tips and more
+* Physical Computing: Input 
 
 
 ##### Homework 
-* Sketch X: PComp output
-* Read: Ken Rinaldo "Autopoiesis"
+* Ensure that your Project 1 is documented on your blog and that your code is commented *_thoroughly_* 
+
+* [Sketch 2: PComp](Sketch_2.md)
+
+* [MidTerm Self Assessment](SelfAssessments.md)
+
+* Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
+
+* Read Gordan Pask's "The Architectual Relevance of Cybernetics"
 
 
 
 
 ### Week 10 April 10th:
 ##### InClass
-Physical Computing: IoT Systems + Networking
+Physical Computing: Output Workshop - Motors, Tips and more
+
+IoT Systems
 
 ##### Show & Tell X: The Explorartorium & Disney Research - Indira
 
 
 ##### Homework
 Sketch X: PComp Networking
+* Read: Ken Rinaldo "Autopoiesis"
 * Read "Art as a Living System" by Christa Sommerer and Laurent Mignonneau
 
 
