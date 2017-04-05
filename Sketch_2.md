@@ -1,13 +1,14 @@
 ## Sketch 2
 
-Review the physical computing material covered in last class. Review the slides (see [pcomp folder](/tree/master/pcomp)). Go through the code demos 1-3, setting up your board and running the code. Read Chapters 4-5 in Getting Started with Arduino (Slack Resources). 
+*Due April 10th: code to your GitHub repo, images + video documenting the interaction and output to your process blog*
+
+Review the physical computing material covered in last class. Review the slides (see [pcomp folder](pcomp)). Go through the code demos 1-3, setting up your board and running the code. Read Chapters 4-5 in Getting Started with Arduino (Slack Resources). 
 
 After doing that, take a previous sketch (or make a new one) and incorporate an input sensor. The input sensor should controlling/changing an image, sound or video. Have fun and be playful. Practice good circuit techniques in building your project step by step. 
 
 Can you program in a change that only happens once in a while?
 
 
-* Due April 10th: code to your GitHub repo, images + video documenting the interaction and output to your process blog *
 
 Name your Github Repo "II_Sketch_2" and send me a link to it.
 

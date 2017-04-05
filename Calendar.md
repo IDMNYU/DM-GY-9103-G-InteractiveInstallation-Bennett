@@ -147,13 +147,9 @@
 
 ##### Homework 
 * Ensure that your Project 1 is documented on your blog and that your code is commented *_thoroughly_* 
-
 * [Sketch 2: PComp](Sketch_2.md)
-
 * [MidTerm Self Assessment](SelfAssessments.md)
-
 * Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
-
 * Read Gordan Pask's "The Architectual Relevance of Cybernetics"
 
 
