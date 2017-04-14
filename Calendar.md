@@ -165,7 +165,7 @@ IoT Systems
 
 
 ##### Homework
-Sketch X: PComp Networking
+* [Sketch 3: PComp_II](Sketch_3.md) 
 * Read: Ken Rinaldo "Autopoiesis"
 * Read "Art as a Living System" by Christa Sommerer and Laurent Mignonneau
 
